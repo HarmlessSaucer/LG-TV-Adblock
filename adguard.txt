@@ -3,7 +3,7 @@
 ! This file is for use with Adguard Home
 !
 ! This file is based on the information from the following Reddit post:
-! https://www.reddit.com/r/LGOLED/comments/r8gi60/guide_how_to_block_ads_on_webos_without_pihole/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
+! https://www.reddit.com/r/LGOLED/comments/r8gi60/guide_how_to_block_ads_on_webos_without_pihole/
 !
 !
 ||cdpbeacon.lgtvcommon.com^
